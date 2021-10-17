@@ -7,7 +7,7 @@
     "MixinAbstractContainerScreen", "MixinAbstractSelectionList", "MixinAbstractSliderButton", "MixinBookEditScreen", "MixinChatScreen", "MixinCubeMapRenderer",
     "MixinCycleOption", "MixinEditBox", "MixinGameRenderer", "MixinGui", "MixinGuiComponent", "MixinInventoryScreen", "MixinItemRenderer", "MixinRenderItemChangeY",
     "MixinKeyboardHandler", "MixinMinecraft", "MixinOptionsScreen", "MixinScreen", "MixinScreenshot", "MixinServerSelectionList$OnlineServerEntry",
-    "MixinSplashManager", "MixinTextRenderer", "MixinTitleScreen", "MixinToastComponent$ToastInstance", "MixinWorldSelectionList$WorldListEntry",
+    "MixinSplashManager", "MixinTextRenderer", "MixinToastComponent$ToastInstance", "MixinWorldSelectionList$WorldListEntry",
     "TitleScreenHooks", "cloth.MixinScissorsHandlerImpl", "modmenu.MixinModListWidget", "modmenu.MixinModsScreen", "rei.MixinOverlaySearchField",
     "rei.MixinRecipeViewingScreen", "rei.MixinREITextFieldWidget", "rei.MixinVillagerRecipeViewingScreen"
   ],
